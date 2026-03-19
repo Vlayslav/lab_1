@@ -15,7 +15,7 @@ public class Lab1 {
     public static void main(String[] args) {
 
         // вивід тексту на екран
-        System.out.println("Привіт СІ-3 !!!");
+        System.out.println("Привіт СІс-21 !!!");
         System.out.print("Як тебе звуть? "); // тут користувач має набрати в командному рядку стрічку зі своїм іменем
         // зчитування тексту з стандартного вводу
         Scanner scanner = new Scanner(System.in);
